@@ -1,3 +1,18 @@
 baseURL = 'https://streamfigyelo.hu/'
 languageCode = 'hu-hu'
 title = 'Stream Figyelő'
+theme = "PaperMod"
+
+[params]
+    defaultTheme = "dark" # Vagy "light", ha a fehéret szereted
+    showCodeCopyButtons = true
+    
+    [params.homeInfoParams]
+        Title = "Üdv a Stream Figyelőn! 👋"
+        Content = "Hírek, tesztek és minden, ami streaming."
+
+[[menu.main]]
+    identifier = "posts"
+    name = "Posztok"
+    url = "/posts/"
+    weight = 10
