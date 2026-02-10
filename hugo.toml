@@ -1,0 +1,4 @@
+baseURL = 'https://streamfigyelo.hu/'
+languageCode = 'hu-hu'
+title = 'Stream Figyelő'
+theme = 'PaperMod'
