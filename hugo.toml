@@ -1,7 +1,7 @@
 baseURL = 'https://streamfigyelo.hu/'
 languageCode = 'hu-hu'
 title = 'Stream Figyelő'
-theme = "PaperMod"
+theme = ["github.com/adityatelange/hugo-PaperMod"]
 
 [params]
     defaultTheme = "dark" # Vagy "light", ha a fehéret szereted
