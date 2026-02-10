@@ -1,6 +1,7 @@
 ---
-title: "Üdvözöllek az új oldalamon!"
-date: 2024-05-22
+title: "Üdvözlünk a megújult oldalon!"
+date: 2026-02-10
 draft: false
 ---
-Ez az első posztom, ami már GitHubról és Cloudflare-ről fut!
+
+Ez itt az első bejegyzésem a PaperMod témával.
