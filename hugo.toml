@@ -11,6 +11,7 @@ theme = "github.com/adityatelange/hugo-PaperMod"
     defaultTheme = "dark"
     showCodeCopyButtons = true
     ShowShareButtons = true
+    showShareButtons = true
     ShowPostNavLinks = true
     description = "Stream Figyelő - Kritikák, streaming hírek és minden, ami mozi."
     images = ["/images/og-image.png"]
