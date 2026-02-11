@@ -13,8 +13,8 @@ theme = "github.com/adityatelange/hugo-PaperMod"
     showCodeCopyButtons = true
     
     [params.homeInfoParams]
-        Title = "Üdv a Stream Figyelőn! 👋"
-        Content = "Hírek, tesztek és minden, ami streaming."
+        Title = "A streaming univerzum központja"
+        Content = "Netflix, Max, Apple TV+ és a többiek. Mi megmondjuk, mire ne pazarold a drága szabadidődet."
 
 [[menu.main]]
     identifier = "posts"
