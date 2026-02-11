@@ -13,11 +13,18 @@ theme = "github.com/adityatelange/hugo-PaperMod"
     showCodeCopyButtons = true
     
     [params.homeInfoParams]
-        Title = "A streaming univerzum központja"
-        Content = "Netflix, Max, Apple TV+ és a többiek. Mi megmondjuk, mire ne pazarold a drága szabadidődet."
+        Title = "Streaming. Sebesség. Sztorik. 🍿"
+        Content = "Ne pazarold az időd középszerű filmekre. Megkeressük neked a valódi gyöngyszemeket a streaming tengerében, és odalépünk a gázra, ha F1-ről van szó."
+
+    [[params.socialIcons]]
+        name = "facebook"
+        url = "https://facebook.com/streamfigyelo"
 
 [[menu.main]]
     identifier = "posts"
     name = "Posztok"
     url = "/posts/"
     weight = 10
+
+[outputs]
+    home = ["HTML", "RSS", "JSON"]
