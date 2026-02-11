@@ -45,7 +45,4 @@ Képek: imdb.com
 
 Trailer: 
 
-{{< youtube _OxeP_fH1U8 >}}
-
----
-*Forrás: [Stream Figyelő Substack](https://open.substack.com/pub/streamfigyelo/p/a-szer-2024-amikor-a-kevesebb-tobb)*
+{{< youtube _B_tDLs6u2E0 >}}
