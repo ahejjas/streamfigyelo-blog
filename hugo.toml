@@ -27,4 +27,9 @@ theme = "github.com/adityatelange/hugo-PaperMod"
     weight = 10
 
 [outputs]
-    home = ["HTML", "RSS", "JSON"]
+    home = ["HTML", "RSS", "JSON"] # Ez a JSON generálja a keresési adatbázist
+
+[[menu.main]]
+    name = "Keresés"
+    url = "/search/"
+    weight = 30
