@@ -5,7 +5,6 @@ type: post
 showShareButtons: true
 draft: false
 description: "Kíméletlen kritika Coralie Fargeat testhhorrorjáról. Megéri megnézni, vagy csak a hype miatt beszélnek róla?"
-keywords: ["A szer kritika", "The Substance vélemény", "streaming filmek", "testhhorror", "Demi Moore film"]
 summary: "Sokszor előfordul, hogy egy film körül akkora a hype, hogy az ember inkább félreteszi. Így jártam én is A szer című alkotással..."
 cover:
     image: "/images/fdbeb.jpg"
