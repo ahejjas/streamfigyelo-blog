@@ -3,11 +3,13 @@ title: "A szer (2024) – Amikor a kevesebb több lett volna"
 date: 2026-02-11
 draft: false
 summary: "Sokszor előfordul, hogy egy film körül akkora a hype - legyen az pozitív vagy negatív -, hogy az ember inkább félreteszi. Így jártam én is Coralie Fargeat A szer című alkotásával."
+cover:
+    image: "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F04d3743a-144d-42ee-bfb0-e48f0ee648cb_1205x1500.jpeg"
+    alt: "A szer filmplakát"
+    relative: false
 ---
 
 Sokszor előfordul, hogy egy film körül akkora a hype - legyen az pozitív vagy negatív -, hogy az ember inkább félreteszi, várva a megfelelő pillanatra. Így jártam én is ***Coralie Fargeat*** ***A szer (The Substance)*** című alkotásával. 2024-ben valahogy kimaradt; a rengeteg negatív kritika, amit olvastam róla, egyszerűen elvette a kedvemet. Tegnap azonban az ***HBO Max*** felajánlotta, és mivel ritka kincsnek számító szabad két órám (pontosabban 2 óra 21 percem) adódott, gondoltam, teszek vele egy próbát.
-
-![A szer poszter](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F04d3743a-144d-42ee-bfb0-e48f0ee648cb_1205x1500.jpeg)
 
 Sajnos azt kell mondanom: bárcsak ne tettem volna. Vagy legalábbis bárcsak kikapcsoltam volna egy óra után.
 
