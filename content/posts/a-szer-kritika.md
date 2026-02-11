@@ -2,7 +2,9 @@
 title: "A szer (2024) – Amikor a kevesebb több lett volna"
 date: 2026-02-11
 draft: false
-summary: "Sokszor előfordul, hogy egy film körül akkora a hype - legyen az pozitív vagy negatív -, hogy az ember inkább félreteszi. Így jártam én is Coralie Fargeat A szer című alkotásával."
+description: "Kíméletlen kritika Coralie Fargeat testhhorrorjáról. Megéri megnézni, vagy csak a hype miatt beszélnek róla?"
+keywords: ["A szer kritika", "The Substance vélemény", "streaming filmek", "testhhorror", "Demi Moore film"]
+summary: "Sokszor előfordul, hogy egy film körül akkora a hype, hogy az ember inkább félreteszi. Így jártam én is A szer című alkotással..."
 cover:
     image: "/images/fdbeb.jpg"
     alt: "A szer filmplakát"
