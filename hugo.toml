@@ -15,6 +15,9 @@ theme = "github.com/adityatelange/hugo-PaperMod"
     [params.analytics.goatcounter]
         code = "streamfigyelo"
 
+description = "Stream Figyelő - Kritikák, streaming hírek és minden, ami mozi."
+    images = ["/images/og-image.png"] # Ez lesz az alapértelmezett kép, ha egy poszthoz nem adsz meg borítót
+
     defaultTheme = "dark"
     showCodeCopyButtons = true
     
