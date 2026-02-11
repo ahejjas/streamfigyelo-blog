@@ -20,6 +20,9 @@ theme = "github.com/adityatelange/hugo-PaperMod"
         name = "facebook"
         url = "https://facebook.com/streamfigyelo"
 
+[params.analytics.goatcounter]
+    code = "streamfigyelo"
+
 [[menu.main]]
     identifier = "posts"
     name = "Posztok"
