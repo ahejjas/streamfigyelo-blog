@@ -37,4 +37,4 @@ Nálunk az Apple TV+-on érhető el.
 
 **Trailer:**
 
-(https://youtu.be/69ffwl-8pCU?si=bXb7Wf4dl7Jnq5KL)
+{{< youtube 69ffwl-8pCU >}}
