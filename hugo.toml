@@ -11,6 +11,12 @@ theme = "github.com/adityatelange/hugo-PaperMod"
 [params]
     defaultTheme = "dark"
     showCodeCopyButtons = true
+    # Ide jöhet a GoatCounter is, ha a beépített módot választod:
+    [params.analytics.goatcounter]
+        code = "streamfigyelo"
+
+    defaultTheme = "dark"
+    showCodeCopyButtons = true
     
     [params.homeInfoParams]
         Title = "A streaming univerzum központja"
@@ -19,11 +25,6 @@ theme = "github.com/adityatelange/hugo-PaperMod"
     [[params.socialIcons]]
         name = "facebook"
         url = "https://facebook.com/streamfigyelo"
-
-[params]
-    # ... egyéb beállítások ...
-    [params.analytics.goatcounter]
-        code = "streamfigyelo"
 
 [[menu.main]]
     identifier = "posts"
