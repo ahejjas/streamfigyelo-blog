@@ -23,9 +23,11 @@ theme = "github.com/adityatelange/hugo-PaperMod"
 
     # Megosztás gombok beállítása
     [params.shareButtons]
-        facebook = true
-        twitter = true
-        reddit = true
+    facebook = true
+    twitter = true
+    linkedin = true
+    whatsapp = true
+    reddit = true
 
     # Statisztika
     [params.analytics.goatcounter]
