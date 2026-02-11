@@ -4,7 +4,7 @@ date: 2026-02-11
 draft: false
 summary: "Sokszor előfordul, hogy egy film körül akkora a hype - legyen az pozitív vagy negatív -, hogy az ember inkább félreteszi. Így jártam én is Coralie Fargeat A szer című alkotásával."
 cover:
-    image: "https://www.blitzquotidiano.it/wp-content/uploads/2024/10/fdbeb.jpg"
+    image: "/images/fdbeb.jpg"
     alt: "A szer filmplakát"
     relative: false
 ---
