@@ -13,8 +13,8 @@ theme = "github.com/adityatelange/hugo-PaperMod"
     showCodeCopyButtons = true
     
     [params.homeInfoParams]
-        Title = "Streaming. Sebesség. Sztorik. 🍿"
-        Content = "Ne pazarold az időd középszerű filmekre. Megkeressük neked a valódi gyöngyszemeket a streaming tengerében, és odalépünk a gázra, ha F1-ről van szó."
+        Title = "A streaming univerzum központja"
+        Content = "Ne pazarold az időd középszerű filmekre. Megkeressük neked a valódi gyöngyszemeket a streaming tengerében."
 
     [[params.socialIcons]]
         name = "facebook"
