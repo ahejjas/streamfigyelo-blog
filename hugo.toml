@@ -18,7 +18,6 @@ theme = "github.com/adityatelange/hugo-PaperMod"
 description = "Stream Figyelő - Kritikák, streaming hírek és minden, ami mozi."
     images = ["/images/og-image.png"] # Ez lesz az alapértelmezett kép, ha egy poszthoz nem adsz meg borítót
 
-[params]
     # ... meglévő beállítások ...
     ShowShareButtons = true
 
