@@ -18,16 +18,15 @@ theme = "github.com/adityatelange/hugo-PaperMod"
 description = "Stream Figyelő - Kritikák, streaming hírek és minden, ami mozi."
     images = ["/images/og-image.png"] # Ez lesz az alapértelmezett kép, ha egy poszthoz nem adsz meg borítót
 
-    # ... meglévő beállítások ...
+  
+    # ... egyéb params beállítások ...
     ShowShareButtons = true
+    ShowPostNavLinks = true
 
-    # Itt választhatod ki, melyik ikonok jelenjenek meg
     [params.shareButtons]
         facebook = true
         twitter = true
-        linkedin = true
         reddit = true
-        whatsapp = true
 
     defaultTheme = "dark"
     showCodeCopyButtons = true
