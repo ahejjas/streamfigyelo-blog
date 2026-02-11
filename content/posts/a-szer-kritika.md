@@ -1,7 +1,8 @@
 ---
-type: post
 title: "A szer (2024) – Amikor a kevesebb több lett volna"
 date: 2026-02-11
+type: post
+showShareButtons: true
 draft: false
 description: "Kíméletlen kritika Coralie Fargeat testhhorrorjáról. Megéri megnézni, vagy csak a hype miatt beszélnek róla?"
 keywords: ["A szer kritika", "The Substance vélemény", "streaming filmek", "testhhorror", "Demi Moore film"]
