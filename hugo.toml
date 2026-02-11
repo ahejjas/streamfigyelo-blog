@@ -1,7 +1,7 @@
 baseURL = 'https://streamfigyelo.hu/'
 languageCode = 'hu-hu'
 title = 'Stream Figyelő'
-theme = "github.com/adityatelange/hugo-PaperMod"
+theme = ["github.com/adityatelange/hugo-PaperMod"]
 
 # Ez a rész mondja meg a Cloudflare-nek, hogy töltse le a témát
 [module]
