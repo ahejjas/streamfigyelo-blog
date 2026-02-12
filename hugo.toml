@@ -30,6 +30,8 @@ languageCode = 'hu-hu'
     tags = "Címkék"
     archive = "Archívum"
 
+    footer = "© 2026 Stream Figyelő"
+
 [params.assets]
         favicon = "/images/favicon.png"
         favicon16x16 = "/images/favicon.png"
