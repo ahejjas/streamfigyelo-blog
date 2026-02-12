@@ -2,14 +2,12 @@ baseURL = 'https://streamfigyelo.hu/'
 title = 'Stream Figyelő'
 theme = "github.com/adityatelange/hugo-PaperMod"
 
-# Nyelvi alapbeállítások - CSAK EGYSZER!
+# Nyelvi alapbeállítások
 defaultContentLanguage = 'hu'
 languageCode = 'hu-hu'
 
 [languages.hu]
     languageName = 'Magyar'
-    contentDir = 'content'
-    languageCode = 'hu-hu'
     weight = 1
 
 [module]
@@ -21,10 +19,18 @@ languageCode = 'hu-hu'
     tag = "tags"
 
 [params]
+    # Alapvető beállítások
     defaultTheme = "dark"
     description = "Stream Figyelő - Kritikák, streaming hírek és minden, ami mozi."
     images = ["/images/og-image.png"]
     
+    # Feliratok magyarítása közvetlenül (PaperMod specifikus)
+    # Ha az i18n nem működik, a téma sokszor ezeket nézi
+    categories = "Kategóriák"
+    tags = "Címkék"
+    archive = "Archívum"
+
+    # Poszt megjelenítési opciók
     ShowReadingTime = true
     ShowShareButtons = true
     ShowPostNavLinks = true
@@ -46,6 +52,7 @@ languageCode = 'hu-hu'
         name = "facebook"
         url = "https://facebook.com/streamfigyelo"
 
+# Főmenü
 [[menu.main]]
     identifier = "posts"
     name = "Posztok"
