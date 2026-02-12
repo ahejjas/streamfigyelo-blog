@@ -23,27 +23,25 @@ languageCode = 'hu-hu'
     defaultTheme = "dark"
     description = "Stream Figyelő - Kritikák, streaming hírek és minden, ami mozi."
     images = ["/images/og-image.png"]
+    footer = "© 2026 Stream Figyelő"
     
-    # Feliratok magyarítása közvetlenül (PaperMod specifikus)
-    # Ha az i18n nem működik, a téma sokszor ezeket nézi
+    # Feliratok magyarítása
     categories = "Kategóriák"
     tags = "Címkék"
     archive = "Archívum"
-
-    footer = "© 2026 Stream Figyelő"
-
-[params.assets]
-        favicon = "/images/favicon.png"
-        favicon16x16 = "/images/favicon.png"
-        favicon32x32 = "/images/favicon.png"
-        apple_touch_icon = "/images/favicon.png"
-        safari_pinned_tab = "/images/favicon.png"
 
     # Poszt megjelenítési opciók
     ShowReadingTime = true
     ShowShareButtons = true
     ShowPostNavLinks = true
     showCodeCopyButtons = true
+
+    # Eszközök (Favicon) - Ha a static mappában van közvetlenül!
+    [params.assets]
+        favicon = "/favicon.png"
+        favicon16x16 = "/favicon.png"
+        favicon32x32 = "/favicon.png"
+        apple_touch_icon = "/favicon.png"
 
     [params.homeInfoParams]
         Title = "A streaming univerzum központja"
