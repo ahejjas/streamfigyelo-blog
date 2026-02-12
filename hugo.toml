@@ -1,7 +1,12 @@
 baseURL = 'https://streamfigyelo.hu/'
 languageCode = 'hu-hu'
+defaultContentLanguage = 'hu'
 title = 'Stream Figyelő'
 theme = "github.com/adityatelange/hugo-PaperMod"
+
+[languages.hu]
+    languageName = 'Magyar'
+    weight = 1
 
 [module]
   [[module.imports]]
@@ -16,7 +21,6 @@ theme = "github.com/adityatelange/hugo-PaperMod"
     description = "Stream Figyelő - Kritikák, streaming hírek és minden, ami mozi."
     images = ["/images/og-image.png"]
     
-    # Posztok megjelenítése
     ShowReadingTime = true
     ShowShareButtons = true
     ShowPostNavLinks = true
@@ -38,7 +42,6 @@ theme = "github.com/adityatelange/hugo-PaperMod"
         name = "facebook"
         url = "https://facebook.com/streamfigyelo"
 
-# Menüpontok
 [[menu.main]]
     identifier = "posts"
     name = "Posztok"
