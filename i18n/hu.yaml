@@ -1,8 +1,2 @@
-[categories]
-other = "Kategóriák"
-
-[tags]
-other = "Címkék"
-
-[archive]
-other = "Archívum"
+categories: "Kategóriák"
+tags: "Címkék"
