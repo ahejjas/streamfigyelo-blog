@@ -22,19 +22,22 @@ languageCode = 'hu-hu'
     description = "Stream Figyelő - Kritikák, streaming hírek és minden, ami mozi."
     images = ["/images/og-image.png"]
     
-    # Ez a helyes módja a lábléc szövegének:
-    copyright = "© 2026 Stream Figyelő"
-    hideCopyright = true
-
+    # Magyarítások
     categories = "Kategóriák"
     tags = "Címkék"
     archive = "Archívum"
 
+    # Megjelenítés
     ShowReadingTime = true
     ShowShareButtons = true
     ShowPostNavLinks = true
     showCodeCopyButtons = true
+    
+    # Lábléc beállítása: A copyright marad, a reklám eltűnik
+    copyright = "© 2026 Stream Figyelő"
+    hideCopyright = true
 
+    # Itt kezdődnek az al-szekciók (ezeknek a lista végén a helyük)
     [params.assets]
         favicon = "/favicon.png"
         favicon16x16 = "/favicon.png"
