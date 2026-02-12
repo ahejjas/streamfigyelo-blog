@@ -1,11 +1,14 @@
 {{ define "main" }}
 <div class="not-found">
     <h1 class="error-code">404</h1>
-    <h2 class="error-message">Hoppá! Úgy tűnik, eltévedtél a streaming tengerében.</h2>
+    <h2 class="error-message">Hoppá! Úgy tűnik, eltévedtél.</h2>
     <div class="error-description">
-        Sajnos a keresett kritika vagy hír nem található. Talán elköltözött, vagy még meg sem írtuk.
+        Sajnos a keresett tartalom nem található a streaming tengerében.
     </div>
-    <a href="{{ "" | absLangURL }}" class="home-link">Vissza a főoldalra</a>
+    <div class="action-links">
+        <a href="{{ "" | absLangURL }}" class="home-button">Vissza a főoldalra</a>
+        <a href="/search/" class="search-button">Keresés a kritikák között</a>
+    </div>
 </div>
 
 <style>
@@ -14,19 +17,49 @@
         flex-direction: column;
         align-items: center;
         justify-content: center;
-        height: 60vh;
+        min-height: 50vh;
+        padding: 20px;
         text-align: center;
     }
-    .error-code { font-size: 120px; margin: 0; color: var(--primary); }
-    .error-message { font-size: 24px; margin-bottom: 20px; }
-    .error-description { margin-bottom: 30px; opacity: 0.8; }
-    .home-link {
+    .error-code { 
+        font-size: 80px; /* Visszavéve 120-ról */
+        margin: 0; 
+        color: var(--primary); 
+        line-height: 1;
+    }
+    .error-message { 
+        font-size: 20px; /* Kisebb, olvashatóbb méret */
+        margin: 10px 0; 
+    }
+    .error-description { 
+        margin-bottom: 30px; 
+        opacity: 0.7; 
+        font-size: 16px;
+        max-width: 400px;
+    }
+    .action-links {
+        display: flex;
+        gap: 15px;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    .home-button, .search-button {
         padding: 10px 20px;
+        border-radius: 8px;
+        text-decoration: none;
+        font-weight: 500;
+        transition: transform 0.2s ease;
+    }
+    .home-button {
         background: var(--primary);
         color: var(--theme);
-        border-radius: 5px;
-        text-decoration: none;
-        font-weight: bold;
+    }
+    .search-button {
+        background: var(--tertiary);
+        color: var(--primary);
+    }
+    .home-button:hover, .search-button:hover {
+        transform: scale(1.05);
     }
 </style>
 {{ end }}
