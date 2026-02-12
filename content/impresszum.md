@@ -5,7 +5,7 @@ description: "A Stream Figyelő hivatalos adatai."
 
 ### Az oldal üzemeltetője
 * **Név:** [Héjjas Attila]
-* **E-mail cím:** [info@streamfigyelo.hu]
+* **E-mail cím:** [info(at)streamfigyelo.hu]
 
 ### Tárhelyszolgáltató
 * **Név:** Cloudflare, Inc.
