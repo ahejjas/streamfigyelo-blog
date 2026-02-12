@@ -37,9 +37,16 @@ languageCode = 'hu-hu'
         favicon32x32 = "/images/favicon.png"
         apple_touch_icon = "/images/favicon.png"
 
-    [params.homeInfoParams]
+[params.homeInfoParams]
         Title = "A streaming univerzum központja"
         Content = "Ne pazarold az időd középszerű filmekre. Megkeressük neked a valódi gyöngyszemeket a streaming tengerében."
+
+        [[params.homeInfoParams.buttons]]
+            name = "📺 Friss kritikák"
+            url = "/posts/"
+        [[params.homeInfoParams.buttons]]
+            name = "🔍 Fedezd fel"
+            url = "/categories/"
 
     [params.shareButtons]
         facebook = true
