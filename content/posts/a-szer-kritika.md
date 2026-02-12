@@ -2,6 +2,8 @@
 title: "A szer (2024) – Amikor a kevesebb több lett volna"
 date: 2026-02-11
 lastmod: 2026-02-11
+categories: ["Kritika", "Horror"]
+tags: ["HBO Max", "The Substance", "Demi Moore", "a szer"]
 showShareButtons: true
 ShareButtons: ["facebook", "twitter", "reddit"]
 draft: false
