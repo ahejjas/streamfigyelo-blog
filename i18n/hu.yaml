@@ -1,6 +1,3 @@
-- id: categories
-  translation: "Kategóriák"
-- id: tags
-  translation: "Címkék"
-- id: archive
-  translation: "Archívum"
+categories: "Kategóriák"
+tags: "Címkék"
+archive: "Archívum"
