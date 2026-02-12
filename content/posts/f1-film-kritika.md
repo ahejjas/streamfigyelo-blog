@@ -1,6 +1,8 @@
 ---
 title: "Szponzorlogók és száguldás: elég az F1 csillogása az Oscar-díjhoz?"
 date: 2026-01-25
+showShareButtons: true
+ShareButtons: ["facebook", "twitter", "reddit"]
 draft: false
 summary: "Folytatódott az Oscar-jelöltek mustrája, ezúttal Brad Pitt és az F1 (2025) volt a soros. A receptet nem gondolták túl: gyakorlatilag fogták a Top Gun: Maverick tervrajzát."
 cover:
