@@ -2,3 +2,5 @@
   translation: "Kategóriák"
 - id: tags
   translation: "Címkék"
+- id: read_more
+  translation: "Tovább olvasom"
