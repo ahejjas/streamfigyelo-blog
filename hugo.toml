@@ -30,12 +30,12 @@ languageCode = 'hu-hu'
     tags = "Címkék"
     archive = "Archívum"
 
-    [params.assets]
-    favicon = "/favicon.png"
-    favicon16x16 = "/favicon.png"
-    favicon32x32 = "/favicon.png"
-    apple_touch_icon = "/favicon.png"
-    safari_pinned_tab = "/favicon.png"
+[params.assets]
+        favicon = "/images/favicon.png"
+        favicon16x16 = "/images/favicon.png"
+        favicon32x32 = "/images/favicon.png"
+        apple_touch_icon = "/images/favicon.png"
+        safari_pinned_tab = "/images/favicon.png"
 
     # Poszt megjelenítési opciók
     ShowReadingTime = true
