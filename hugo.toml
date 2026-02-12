@@ -36,7 +36,9 @@ languageCode = 'hu-hu'
         favicon32x32 = "/images/favicon.png"
         apple_touch_icon = "/images/favicon.png"
 
-    # Megjegyzés: A kezdőlap szövegeit a layouts/partials/home_info.html fájlban szerkeszd!
+    # Ez a rész KELL, hogy a Hugo aktiválja a kezdőlapi blokkot
+    [params.homeInfoParams]
+        Title = "Aktiválva" 
 
     [params.shareButtons]
         facebook = true
