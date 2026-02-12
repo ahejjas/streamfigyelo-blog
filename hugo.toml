@@ -7,14 +7,20 @@ theme = "github.com/adityatelange/hugo-PaperMod"
   [[module.imports]]
     path = "github.com/adityatelange/hugo-PaperMod"
 
+[taxonomies]
+    category = "categories"
+    tag = "tags"
+
 [params]
     defaultTheme = "dark"
-    showCodeCopyButtons = true
-    ShowShareButtons = true
-    showShareButtons = true
-    ShowPostNavLinks = true
     description = "Stream Figyelő - Kritikák, streaming hírek és minden, ami mozi."
     images = ["/images/og-image.png"]
+    
+    # Posztok megjelenítése
+    ShowReadingTime = true
+    ShowShareButtons = true
+    ShowPostNavLinks = true
+    showCodeCopyButtons = true
 
     [params.homeInfoParams]
         Title = "A streaming univerzum központja"
@@ -32,6 +38,7 @@ theme = "github.com/adityatelange/hugo-PaperMod"
         name = "facebook"
         url = "https://facebook.com/streamfigyelo"
 
+# Menüpontok
 [[menu.main]]
     identifier = "posts"
     name = "Posztok"
@@ -39,6 +46,13 @@ theme = "github.com/adityatelange/hugo-PaperMod"
     weight = 10
 
 [[menu.main]]
+    identifier = "categories"
+    name = "Kategóriák"
+    url = "/categories/"
+    weight = 20
+
+[[menu.main]]
+    identifier = "search"
     name = "Keresés"
     url = "/search/"
     weight = 30
