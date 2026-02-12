@@ -1,8 +1,10 @@
 baseURL = 'https://streamfigyelo.hu/'
-languageCode = 'hu-hu'
-defaultContentLanguage = 'hu'
 title = 'Stream Figyelő'
 theme = "github.com/adityatelange/hugo-PaperMod"
+
+# Nyelvi alapbeállítások - CSAK EGYSZER!
+defaultContentLanguage = 'hu'
+languageCode = 'hu-hu'
 
 [languages.hu]
     languageName = 'Magyar'
