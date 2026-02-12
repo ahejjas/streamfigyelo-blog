@@ -1,0 +1,22 @@
+/* Kezdőlap háttér beállítása */
+.first-entry, .home-info {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("/images/hero-bg.png");
+    background-size: cover;
+    background-position: center;
+    border-radius: 15px;
+    padding: 40px !important;
+    color: white !important;
+    margin-bottom: 30px;
+}
+
+/* Hogy a szöveg jobban olvasható legyen */
+.home-info h1 {
+    font-size: 35px !important;
+    font-weight: 700;
+    text-shadow: 2px 2px 4px rgba(0,0,0,0.8);
+}
+
+.home-info .description {
+    font-size: 20px !important;
+    text-shadow: 1px 1px 3px rgba(0,0,0,0.8);
+}
