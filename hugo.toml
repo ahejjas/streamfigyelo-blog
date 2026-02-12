@@ -30,16 +30,21 @@ languageCode = 'hu-hu'
     ShowPostNavLinks = true
     showCodeCopyButtons = true
 
-    # Favicon beállítások - Frissítve az /images/ mappához!
     [params.assets]
         favicon = "/images/favicon.png"
         favicon16x16 = "/images/favicon.png"
         favicon32x32 = "/images/favicon.png"
         apple_touch_icon = "/images/favicon.png"
 
-[params.homeInfoParams]
+    # ITT A JAVÍTÁS: Kép útvonala és a gombok
+    [params.homeInfoParams]
         Title = "A streaming univerzum központja"
         Content = "Ne pazarold az időd középszerű filmekre. Megkeressük neked a valódi gyöngyszemeket a streaming tengerében."
+        
+        [params.homeInfoParams.image]
+            src = "/images/hero-bg.png"
+            alt = "Stream Figyelő"
+            height = 200
 
         [[params.homeInfoParams.buttons]]
             name = "📺 Friss kritikák"
