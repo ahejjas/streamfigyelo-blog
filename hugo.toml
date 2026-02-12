@@ -2,6 +2,7 @@ baseURL = 'https://streamfigyelo.hu/'
 title = 'Stream Figyelő'
 theme = "github.com/adityatelange/hugo-PaperMod"
 
+# Nyelvi alapbeállítások
 defaultContentLanguage = 'hu'
 languageCode = 'hu-hu'
 
@@ -18,48 +19,53 @@ languageCode = 'hu-hu'
     tag = "tags"
 
 [params]
+    # Alapvető beállítások
     defaultTheme = "dark"
     description = "Stream Figyelő - Kritikák, streaming hírek és minden, ami mozi."
     images = ["/images/og-image.png"]
     
-    # Magyarítások
+    # Lábléc szövege (a reklámot a layouts/partials/footer.html fogja eltüntetni)
+    copyright = "© 2026 Stream Figyelő"
+
+    # Feliratok magyarítása
     categories = "Kategóriák"
     tags = "Címkék"
     archive = "Archívum"
 
-    # Megjelenítés
+    # Megjelenítési opciók
     ShowReadingTime = true
     ShowShareButtons = true
     ShowPostNavLinks = true
     showCodeCopyButtons = true
-    
-    # Lábléc beállítása: A copyright marad, a reklám eltűnik
-    copyright = "© 2026 Stream Figyelő"
-    hideCopyright = true
 
-    # Itt kezdődnek az al-szekciók (ezeknek a lista végén a helyük)
+    # Eszközök (Favicon) - Ez most már biztosan a [params] része
     [params.assets]
         favicon = "/favicon.png"
         favicon16x16 = "/favicon.png"
         favicon32x32 = "/favicon.png"
         apple_touch_icon = "/favicon.png"
 
+    # Kezdőlap beállításai
     [params.homeInfoParams]
         Title = "A streaming univerzum központja"
         Content = "Ne pazarold az időd középszerű filmekre. Megkeressük neked a valódi gyöngyszemeket a streaming tengerében."
 
+    # Megosztás gombok
     [params.shareButtons]
         facebook = true
         twitter = true
         reddit = true
 
+    # Analitika
     [params.analytics.goatcounter]
         code = "streamfigyelo"
 
+    # Közösségi ikonok
     [[params.socialIcons]]
         name = "facebook"
         url = "https://facebook.com/streamfigyelo"
 
+# Főmenü (kívül a params szekción)
 [[menu.main]]
     identifier = "posts"
     name = "Posztok"
