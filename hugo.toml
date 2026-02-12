@@ -2,7 +2,6 @@ baseURL = 'https://streamfigyelo.hu/'
 title = 'Stream Figyelő'
 theme = "github.com/adityatelange/hugo-PaperMod"
 
-# Nyelvi alapbeállítások
 defaultContentLanguage = 'hu'
 languageCode = 'hu-hu'
 
@@ -19,24 +18,22 @@ languageCode = 'hu-hu'
     tag = "tags"
 
 [params]
-    # Alapvető beállítások
     defaultTheme = "dark"
     description = "Stream Figyelő - Kritikák, streaming hírek és minden, ami mozi."
     images = ["/images/og-image.png"]
-    footer = "© 2026 Stream Figyelő"
     
-    # Feliratok magyarítása
+    # Ez a helyes módja a lábléc szövegének:
+    copyright = "© 2026 Stream Figyelő"
+
     categories = "Kategóriák"
     tags = "Címkék"
     archive = "Archívum"
 
-    # Poszt megjelenítési opciók
     ShowReadingTime = true
     ShowShareButtons = true
     ShowPostNavLinks = true
     showCodeCopyButtons = true
 
-    # Eszközök (Favicon) - Ha a static mappában van közvetlenül!
     [params.assets]
         favicon = "/favicon.png"
         favicon16x16 = "/favicon.png"
@@ -59,7 +56,6 @@ languageCode = 'hu-hu'
         name = "facebook"
         url = "https://facebook.com/streamfigyelo"
 
-# Főmenü
 [[menu.main]]
     identifier = "posts"
     name = "Posztok"
@@ -82,4 +78,3 @@ languageCode = 'hu-hu'
     home = ["HTML", "RSS", "JSON"]
     page = ["HTML"]
     section = ["HTML"]
-    notfound = ["HTML"]
