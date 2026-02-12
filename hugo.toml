@@ -38,8 +38,8 @@ languageCode = 'hu-hu'
 
     # ITT A JAVÍTÁS: Kép útvonala és a gombok
     [params.homeInfoParams]
-        Title = "A streaming univerzum központja"
-        Content = "Ne pazarold az időd középszerű filmekre. Megkeressük neked a valódi gyöngyszemeket a streaming tengerében."
+        Title = "Fedezd fel a streaming rejtett kincseit"
+        Content = "Mi kiszűrjük a felejthetőt, és megmutatjuk azokat a filmeket és sorozatokat, amelyek igazán maradandó élményt adnak."
         
         [params.homeInfoParams.image]
             src = "/images/hero-bg.PNG"
