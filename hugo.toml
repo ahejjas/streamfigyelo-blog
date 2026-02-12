@@ -53,5 +53,4 @@ theme = "github.com/adityatelange/hugo-PaperMod"
     home = ["HTML", "RSS", "JSON"]
     page = ["HTML"]
     section = ["HTML"]
-    # Ez a sor fontos:
     notfound = ["HTML"]
