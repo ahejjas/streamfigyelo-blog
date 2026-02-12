@@ -42,7 +42,7 @@ languageCode = 'hu-hu'
         Content = "Ne pazarold az időd középszerű filmekre. Megkeressük neked a valódi gyöngyszemeket a streaming tengerében."
         
         [params.homeInfoParams.image]
-            src = "/images/hero-bg.png"
+            src = "/images/hero-bg.PNG"
             alt = "Stream Figyelő"
             height = 200
 
