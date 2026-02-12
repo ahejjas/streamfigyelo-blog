@@ -1,0 +1,32 @@
+{{ define "main" }}
+<div class="not-found">
+    <h1 class="error-code">404</h1>
+    <h2 class="error-message">Hoppá! Úgy tűnik, eltévedtél a streaming tengerében.</h2>
+    <div class="error-description">
+        Sajnos a keresett kritika vagy hír nem található. Talán elköltözött, vagy még meg sem írtuk.
+    </div>
+    <a href="{{ "" | absLangURL }}" class="home-link">Vissza a főoldalra</a>
+</div>
+
+<style>
+    .not-found {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        height: 60vh;
+        text-align: center;
+    }
+    .error-code { font-size: 120px; margin: 0; color: var(--primary); }
+    .error-message { font-size: 24px; margin-bottom: 20px; }
+    .error-description { margin-bottom: 30px; opacity: 0.8; }
+    .home-link {
+        padding: 10px 20px;
+        background: var(--primary);
+        color: var(--theme);
+        border-radius: 5px;
+        text-decoration: none;
+        font-weight: bold;
+    }
+</style>
+{{ end }}
