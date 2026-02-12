@@ -16,27 +16,22 @@ theme = "github.com/adityatelange/hugo-PaperMod"
     description = "Stream Figyelő - Kritikák, streaming hírek és minden, ami mozi."
     images = ["/images/og-image.png"]
 
-    # Főoldali üdvözlő szöveg
     [params.homeInfoParams]
         Title = "A streaming univerzum központja"
         Content = "Ne pazarold az időd középszerű filmekre. Megkeressük neked a valódi gyöngyszemeket a streaming tengerében."
 
-    # Megosztás gombok beállítása
     [params.shareButtons]
-    facebook = true
-    twitter = true
-    reddit = true
+        facebook = true
+        twitter = true
+        reddit = true
 
-    # Statisztika
     [params.analytics.goatcounter]
         code = "streamfigyelo"
 
-    # Közösségi ikonok a főoldalon
     [[params.socialIcons]]
         name = "facebook"
         url = "https://facebook.com/streamfigyelo"
 
-# Menüpontok
 [[menu.main]]
     identifier = "posts"
     name = "Posztok"
@@ -48,7 +43,6 @@ theme = "github.com/adityatelange/hugo-PaperMod"
     url = "/search/"
     weight = 30
 
-# Kimenetek a keresőhöz
 [outputs]
     home = ["HTML", "RSS", "JSON"]
     page = ["HTML"]
