@@ -8,6 +8,8 @@ languageCode = 'hu-hu'
 
 [languages.hu]
     languageName = 'Magyar'
+    contentDir = 'content'
+    languageCode = 'hu-hu'
     weight = 1
 
 [module]
