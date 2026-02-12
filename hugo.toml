@@ -2,7 +2,6 @@ baseURL = 'https://streamfigyelo.hu/'
 title = 'Stream Figyelő'
 theme = "github.com/adityatelange/hugo-PaperMod"
 
-# Nyelvi alapbeállítások
 defaultContentLanguage = 'hu'
 languageCode = 'hu-hu'
 
@@ -19,53 +18,41 @@ languageCode = 'hu-hu'
     tag = "tags"
 
 [params]
-    # Alapvető beállítások
     defaultTheme = "dark"
     description = "Stream Figyelő - Kritikák, streaming hírek és minden, ami mozi."
     images = ["/images/og-image.png"]
-    
-    # Lábléc szövege (a reklámot a layouts/partials/footer.html fogja eltüntetni)
     copyright = "© 2026 Stream Figyelő"
-
-    # Feliratok magyarítása
     categories = "Kategóriák"
     tags = "Címkék"
     archive = "Archívum"
-
-    # Megjelenítési opciók
     ShowReadingTime = true
     ShowShareButtons = true
     ShowPostNavLinks = true
     showCodeCopyButtons = true
 
-    # Eszközök (Favicon) - Ez most már biztosan a [params] része
+    # Favicon beállítások - Frissítve az /images/ mappához!
     [params.assets]
-        favicon = "static/images/favicon.png"
-        favicon16x16 = "static/images/favicon.png"
-        favicon32x32 = "static/images/favicon.png"
-        apple_touch_icon = "static/images/favicon.png"
+        favicon = "/images/favicon.png"
+        favicon16x16 = "/images/favicon.png"
+        favicon32x32 = "/images/favicon.png"
+        apple_touch_icon = "/images/favicon.png"
 
-    # Kezdőlap beállításai
     [params.homeInfoParams]
         Title = "A streaming univerzum központja"
         Content = "Ne pazarold az időd középszerű filmekre. Megkeressük neked a valódi gyöngyszemeket a streaming tengerében."
 
-    # Megosztás gombok
     [params.shareButtons]
         facebook = true
         twitter = true
         reddit = true
 
-    # Analitika
     [params.analytics.goatcounter]
         code = "streamfigyelo"
 
-    # Közösségi ikonok
     [[params.socialIcons]]
         name = "facebook"
         url = "https://facebook.com/streamfigyelo"
 
-# Főmenü (kívül a params szekción)
 [[menu.main]]
     identifier = "posts"
     name = "Posztok"
