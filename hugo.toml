@@ -8,7 +8,7 @@ theme = "github.com/adityatelange/hugo-PaperMod"
     path = "github.com/adityatelange/hugo-PaperMod"
 
 [taxonomies]
-    category = "categories"
+    category = "Kategóriák"
     tag = "tags"
 
 [params]
