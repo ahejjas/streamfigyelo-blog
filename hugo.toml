@@ -51,3 +51,7 @@ theme = "github.com/adityatelange/hugo-PaperMod"
 # Kimenetek a keresőhöz
 [outputs]
     home = ["HTML", "RSS", "JSON"]
+    page = ["HTML"]
+    section = ["HTML"]
+    # Ez a sor fontos:
+    notfound = ["HTML"]
