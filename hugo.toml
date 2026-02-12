@@ -24,6 +24,7 @@ languageCode = 'hu-hu'
     
     # Ez a helyes módja a lábléc szövegének:
     copyright = "© 2026 Stream Figyelő"
+    hideCopyright = true
 
     categories = "Kategóriák"
     tags = "Címkék"
