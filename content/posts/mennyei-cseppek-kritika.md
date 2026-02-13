@@ -22,7 +22,7 @@ Amikor az **Apple TV+** felületén belefutottam a **Mennyei cseppek (Drops of G
 Először is, ahogy ilyenkor lenni szokott, gyorsan lecsekkoltam az IMDb-n. Egy stabil **8-as értékelés** fogadott, ami már önmagában is jó jel. Gondoltam, adok neki egy esélyt, és már az első percektől kezdve magával ragadott. Ritka az ilyen, de a Mennyei cseppek azonnal beszippantott a különleges világába.
 
 <p align="center">
-  <img src="/images/dog_1.jpg" alt="Kép leírása">
+  <img src="/images/dog_1.jpg" alt="Camille és a borok világa">
 </p>
 
 ### Miért is olyan különleges?
@@ -34,7 +34,7 @@ A sorozat egyik legnagyobb erőssége a többnyelvűsége. **Angol, japán és f
 A Mennyei cseppek egy lenyűgöző adaptációja a New York Times bestseller japán manga sorozatnak, és a gasztronómia, azon belül is a borok világába kalauzol el minket. A történet Alexandre Léger, egy Tokióban élő francia borkritikus halálával kezdődik, aki 60 évesen távozik az élők sorából. Hatalmas, 87 000 palackból álló borgyűjteményt hagy maga után, melynek értéke közel **150 millió dollár**. De nem csak a borokról van szó, hanem egy rejtélyes és manipulatív végrendeletről is, amely eldönti, ki örökli a vagyonát és a hagyatékát.
 
 <p align="center">
-  <img src="/images/dog_2.jpg" alt="Kép leírása">
+  <img src="/images/dog_2.jpg">
 </p>
 
 Két szereplő verseng az örökségért: Alexandre elhidegült biológiai lánya, **Camille (Fleur Geffrier)** és a borászati protezsáltja, **Issei (Tomohisa Yamashita)**. Issei papíron esélyesebbnek tűnik, hiszen analitikus és rendkívül művelt a borok terén. Azonban Camille egy rendkívül érzékeny ízlelőbimbóval született, bár a borokhoz eleinte semmit sem ért. A verseny tehát nem is annyira egyenlő feltételekkel indul, mint gondolnánk.
@@ -43,13 +43,17 @@ Két szereplő verseng az örökségért: Alexandre elhidegült biológiai lány
 
 ---
 
-Az első évad drámai hangulatban indul, bemutatva Camille és Issei párbajának alapjait, miközben Camille apjával való bonyolult kapcsolatát is feltárja. Kiderül, hogy Alexandre évekkel korábban elhagyta őt és édesanyját. Issei háttértörténete is kibontakozik, családja azt szeretné, ha feladná a borok iránti szenvedélyét, és a családi gyémántüzletben dolgozna. A verseny három fordulóból áll, amely során nemcsak a szakmai tudásuk, de a kitartásuk és az emberségük is vizsgázik.
+Az első évad drámai hangulatban indul, bemutatva Camille és Issei párbajának alapjait, miközben Camille apjával való bonyolult kapcsolatát is feltárja. Kiderül, hogy Alexandre évekkel korábban elhagyta őt és édesanyját. Issei háttértörténete is kibontakozik, családja azt szeretné, ha feladná a borok iránti szenvedélyét, és a családi gyémántüzletben dolgozna. A sorozat során fény derül arra is, hogy **Camille és Issei féltestvérek**, ami tovább bonyolítja a helyzetet.
+
+A verseny három fordulóból áll. Az elsőben egy bort kell azonosítaniuk. Mindketten tudják, hogy *Chateau Chevalier Blanc*, de melyik évjárat? Issei gyorsan válaszol, míg Camille alaposabban vizsgálja a bort. Végül Issei nyeri ezt a fordulót. A második tesztben egy festményhez kell bort párosítaniuk. Camille nyer, miután Issei az utolsó pillanatban áthúzza a válaszát. Ezzel az állás döntetlenre alakul, de Camille tudja, hogy ellenfele szándékosan hibázott, és mérgében elhatározza, hogy nem veszi át apja örökségét.
 
 <p align="center">
-  <img src="/images/dog_3.jpg" alt="Kép leírása">
+  <img src="/images/dog_3.jpg">
 </p>
 
-A végső feladat egy rejtélyes bor azonosítása és reprodukálása. Mindketten helyesen azonosítják, majd elkészítik a saját verziójukat. Az évad végén Camille és Issei döntetlenre állnak. Kiderül, hogy Alexandre számított erre a helyzetre, és egy újabb feladatot hagyott rájuk: meg kell tippelniük, mik a „Mennyei cseppek”. Camille nyeri a versenyt, amikor kitalálja, hogy az „eső”, és ezzel ő örökli a vagyont.
+A harmadik, utolsó fordulóban Párizsba utaznak. Az első rész egy általános borkvíz, a második pedig borok párosítása egy háromfogásos étkezéshez. Issei vezet, de Camille-nak még van esélye. A végső feladat egy rejtélyes bor azonosítása és reprodukálása. Mindketten helyesen azonosítják, majd elkészítik a saját verziójukat. Az évad végén Camille és Issei döntetlenre állnak, 150-150 ponttal. 
+
+Kiderül, hogy Alexandre számított erre a helyzetre, és egy újabb feladatot hagyott rájuk: meg kell tippelniük, mik a **„Mennyei cseppek”**. Camille nyeri a versenyt, amikor kitalálja, hogy az **„eső”**, és ezzel ő örökli a vagyont. Azonban végül eladja apja gyűjteményének nagy részét, és valaki mást bíz meg a Léger Guide szerkesztésével.
 
 ### Összegzés
 
