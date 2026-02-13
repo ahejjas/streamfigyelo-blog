@@ -10,7 +10,7 @@ draft: false
 description: "Lenyűgöző manga-adaptáció a borok és családi titkok világából. Miért érdemes adni egy esélyt az Apple TV+ egyik legjobb sorozatának?"
 summary: "Amikor az Apple TV+ felületén belefutottam a Mennyei cseppek második évadának beharangozójába, őszintén szólva meglepődtem. Hogyan maradhatott ki ez a sorozat a látókörömből?"
 cover:
-    image: "/images/dog_1.jpg"
+    image: "/images/drops_of_god_cover.jpg"
     alt: "Mennyei cseppek sorozat kép"
     relative: false
 ---
@@ -29,7 +29,7 @@ Először is, ahogy ilyenkor lenni szokott, gyorsan lecsekkoltam az IMDb-n. Egy 
 
 ### Miért is olyan különleges?
 
-A sorozat egyik legnagyobb erőssége a többnyelvűsége. **Angol, japán és francia** nyelven is megszólalnak a karakterek, ami hihetetlenül hitelessé teszi az egészet. Nincs az a béna érzés, hogy franciák egymás között angolul társalognak – ez a részletesség sokat hozzátesz az élményhez. Természetesen, mint a legtöbb Apple TV+ tartalom, ez is feliratos, ami számomra egyáltalán nem hátrány, sőt, inkább előny, hiszen így a színészi játékra és a történetre tudok koncentrálni.
+A sorozat egyik legnagyobb erőssége a többnyelvűsége. **Angol, japán és francia** nyelven is megszólalnak a karakterek, ami hihetetlenül hitelessé teszi az egészet. Nincs az a béna érzés, mikor például franciák egymás között angolul társalognak, és ez a részletesség is sokat hozzátesz az élményhez. Természetesen, mint a legtöbb Apple TV+ tartalom, ez is feliratos, ami számomra egyáltalán nem hátrány, sőt, inkább előny, hiszen így a színészi játékra és a történetre tudok koncentrálni.
 
 ### A történet, ami elvarázsol
 
