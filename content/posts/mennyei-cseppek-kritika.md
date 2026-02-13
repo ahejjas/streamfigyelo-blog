@@ -18,8 +18,7 @@ cover:
 <p style="text-align: justify;">
 
 Amikor az **Apple TV+** felületén belefutottam a **Mennyei cseppek (Drops of God)** második évadának beharangozójába, őszintén szólva meglepődtem. Hogyan maradhatott ki ez a sorozat a látókörömből? Az első évad 2023-as, és valahogy teljesen elkerülte a figyelmemet. Ez is azt mutatja, hogy az Apple TV+ tartalmai, bár gyakran kiváló minőségűek, nincsenek olyan mértékben „hypolva”, mint például a Netflix produkciói. Pedig megérdemelnék a figyelmet, ahogy ez a sorozat is.
-</p>
-<p style="text-align: justify;">
+
 Először is, ahogy ilyenkor lenni szokott, gyorsan lecsekkoltam az IMDb-n. Egy stabil **8-as értékelés** fogadott, ami már önmagában is jó jel. Gondoltam, adok neki egy esélyt, és már az első percektől kezdve magával ragadott. Ritka az ilyen, de a Mennyei cseppek azonnal beszippantott a különleges világába.
 </p>
 
