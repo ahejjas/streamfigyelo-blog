@@ -56,9 +56,9 @@ A verseny három fordulóból áll. Az elsőben egy bort kell azonosítaniuk. Mi
 
 <div style="text-align: justify;">
 
-A harmadik, utolsó fordulóban Párizsba utaznak. Az első rész egy általános borkvíz, a második pedig borok párosítása egy háromfogásos étkezéshez. Issei vezet, de Camille-nak még van esélye. A végső feladat egy rejtélyes bor azonosítása és reprodukálása. Mindketten helyesen azonosítják, majd elkészítik a saját verziójukat. Az évad végén Camille és Issei döntetlenre állnak, 150-150 ponttal. 
+A harmadik, utolsó fordulóban Párizsba utaznak. Az első rész egy általános borkvíz, a második pedig borok párosítása egy háromfogásos étkezéshez. Issei vezet, de Camille-nak még van esélye. A végső feladat egy rejtélyes bor azonosítása és reprodukálása. Mindketten helyesen azonosítják, majd elkészítik a saját verziójukat. Az évad végére végül Camille és Issei döntetlenre állnak, 150-150 ponttal. 
 
-Kiderül, hogy Alexandre számított erre a helyzetre, és egy újabb feladatot hagyott rájuk: meg kell tippelniük, mik a **„Mennyei cseppek”**. Camille nyeri a versenyt, amikor kitalálja, hogy az **„eső”**, és ezzel ő örökli a vagyont. Azonban végül eladja apja gyűjteményének nagy részét, és valaki mást bíz meg a Léger Guide szerkesztésével.
+Kiderül, hogy Alexandre számított erre a helyzetre, és egy újabb feladatot hagyott rájuk: meg kell tippelniük, mik a **„Mennyei cseppek”**. Camille nyeri a versenyt, amikor kitalálja, hogy az **„eső”**, és ezzel ő örökli a vagyont. Azonban végül eladja apja gyűjteményének nagy részét, és Lorenzot és Myabit a Léger Guide borkalauz szerkesztésével.
 
 ### Összegzés
 
