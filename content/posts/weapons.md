@@ -19,8 +19,6 @@ Az Oscar-szezon minden évben tartogat egy-egy sötét lovat, és 2025-ben a **W
 
 ### Maszk mögé bújtatott alakítás?
 
-![](/images/weapons-julia-garner-1838852304.jpg)
-
 Madigan jelölése mellett azonban nem tudok szó nélkül elmenni. Félreértés ne essék: elismerem a színésznő hatalmas pályafutását, és a maszkmesterek is bravúros munkát végeztek a külsején, mégis maradt bennem egy kis hiányérzet. Úgy tűnt, mintha a jelölés inkább szólna a technikai átalakulásnak, mintsem annak a mély, zsigeri színészi játéknak, amit egy Oscar-szintű „villantástól” elvárnánk.
 
 ***
@@ -34,6 +32,8 @@ Madigan jelölése mellett azonban nem tudok szó nélkül elmenni. Félreérté
 ### A rejtély, ami azonnal beszippant
 
 A film alaphelyzete olyan, mint egy jól irányzott gyomros: Maybrook csendes kisvárosában egy éjszaka, pontosan 2:17-kor tizenhét harmadikos kisgyerek egyszerűen kisétál a házából, és köddé válik. Nincs nyom, nincs magyarázat, csak a fojtogató űr. Ahogy a közösség próbál visszatalálni a „normális” kerékvágásba, a trauma úgy kúszik be minden egyes mozdulatukba, mint a talajmenti köd.
+
+![](/images/weapons-julia-garner-1838852304.jpg)
 
 ### Több, mint egy egyszerű krimi
 
