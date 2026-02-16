@@ -23,9 +23,13 @@ Az Oscar-szezon minden évben tartogat egy-egy sötét lovat, és 2025-ben a **W
 
 Madigan jelölése mellett azonban nem tudok szó nélkül elmenni. Félreértés ne essék: elismerem a színésznő hatalmas pályafutását, és a maszkmesterek is bravúros munkát végeztek a külsején, mégis maradt bennem egy kis hiányérzet. Úgy tűnt, mintha a jelölés inkább szólna a technikai átalakulásnak, mintsem annak a mély, zsigeri színészi játéknak, amit egy Oscar-szintű „villantástól” elvárnánk.
 
-<div style="background-color: #ff4d4d22; border-left: 5px solid #ff4d4d; padding: 15px; margin: 20px 0; border-radius: 4px;">
-    <strong>⚠️ SPOILER FIGYELEM:</strong> A következő bekezdések a film alaphelyzetét és bizonyos cselekményelemeit taglalják. Ha teljesen szűzen szeretnél nekimenni a filmnek, ugorj az <strong>Összegzés</strong> részhez!
-</div>
+***
+
+> ⚠️ **SPOILER FIGYELEM:**
+> A következő bekezdések a film alaphelyzetét és bizonyos cselekményelemeit taglalják. Ha teljesen szűzen szeretnél nekimenni a filmnek, ugorj az **Összegzés** részhez!
+
+***
+
 
 ### A rejtély, ami azonnal beszippant
 
