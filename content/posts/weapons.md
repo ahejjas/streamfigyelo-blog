@@ -15,40 +15,45 @@ cover:
     relative: false
 ---
 
-<div class="w-full mb-[4px] mt-0">
-<p style="text-align: justify;">Az Oscar-szezon minden évben tartogat egy-egy sötét lovat, és 2025-ben a <em><b>Weapons</b> </em>vitathatatlanul ez a film. Bár a szakmai visszhang most leginkább <em><strong>Amy Madigan</strong></em> legjobb női mellékszereplő jelölésétől hangos – aki Gladys szerepében valóban emlékezetes –, a produkció több fronton is bizonyított. A Critics Choice Awards-on négy kategóriában tarolt, a Saturn Award-on pedig <em><strong>Zach Cregger</strong></em> rendezőt és Julia Garnert is nevesítették az év legjobbjai között.</p>
+Az Oscar-szezon minden évben tartogat egy-egy sötét lovat, és 2025-ben a **Weapons** vitathatatlanul ez a film. Bár a szakmai visszhang most leginkább **Amy Madigan** legjobb női mellékszereplő jelölésétől hangos – aki Gladys szerepében valóban emlékezetes –, a produkció több fronton is bizonyított. A Critics Choice Awards-on négy kategóriában tarolt, a Saturn Award-on pedig **Zach Cregger** rendezőt és Julia Garnert is nevesítették az év legjobbjai között.
 
-<h3 style="text-align: justify;">Maszk mögé bújtatott alakítás?</h3>
+### Maszk mögé bújtatott alakítás?
+
 ![](/images/weapons-julia-garner-1838852304.jpg)
-<p style="text-align: justify;">Madigan jelölése mellett azonban nem tudok szó nélkül elmenni. Félreértés ne essék: elismerem a színésznő hatalmas pályafutását, és a maszkmesterek is bravúros munkát végeztek a külsején, mégis maradt bennem egy kis hiányérzet. Úgy tűnt, mintha a jelölés inkább szólna a technikai átalakulásnak, mintsem annak a mély, zsigeri színészi játéknak, amit egy Oscar-szintű „villantástól” elvárnánk. Ez persze szubjektív, de számomra a maszk itt dominánsabbnak tűnt a tényleges játéknál.</p>
+
+Madigan jelölése mellett azonban nem tudok szó nélkül elmenni. Félreértés ne essék: elismerem a színésznő hatalmas pályafutását, és a maszkmesterek is bravúros munkát végeztek a külsején, mégis maradt bennem egy kis hiányérzet. Úgy tűnt, mintha a jelölés inkább szólna a technikai átalakulásnak, mintsem annak a mély, zsigeri színészi játéknak, amit egy Oscar-szintű „villantástól” elvárnánk.
 
 <div style="background-color: #ff4d4d22; border-left: 5px solid #ff4d4d; padding: 15px; margin: 20px 0; border-radius: 4px;">
     <strong>⚠️ SPOILER FIGYELEM:</strong> A következő bekezdések a film alaphelyzetét és bizonyos cselekményelemeit taglalják. Ha teljesen szűzen szeretnél nekimenni a filmnek, ugorj az <strong>Összegzés</strong> részhez!
 </div>
 
-<h3 style="text-align: justify;">A rejtély, ami azonnal beszippant</h3>
-<p style="text-align: justify;">A film alaphelyzete olyan, mint egy jól irányzott gyomros: Maybrook csendes kisvárosában egy éjszaka, pontosan 2:17-kor tizenhét harmadikos kisgyerek egyszerűen kisétál a házából, és köddé válik. Nincs nyom, nincs magyarázat, csak a fojtogató űr. Ahogy a közösség próbál visszatalálni a „normális” kerékvágásba, a trauma úgy kúszik be minden egyes mozdulatukba, mint a talajmenti köd.</p>
+### A rejtély, ami azonnal beszippant
 
-<h3 style="text-align: justify;">Több, mint egy egyszerű krimi</h3>
-<p style="text-align: justify;">Ami a <i>Weapons</i>-t kiemeli a tucat-thrillerek közül, az <em><strong>Zach Cregger</strong></em> narratív játéka. A rendező a <i>Magnóliát</i> idéző, több szálon futó, nem lineáris történetmesélést választotta, így nem egy sima nyomozást kapunk, hanem egy mélylélektani látleletet. A fókusz nem a technikai részletekre, hanem az emberi sorsokra kerül. Megismerjük Justine Gandyt, a stresszes tanárnőt, akit a bűnbakkereső városi népharag darabokra szed, valamint Archert, a gyászoló apát, aki a saját elfojtott érzelmeivel és a toxikus maszkulinitás súlyával küzd. Mellettük ott van a kis Alex, az egyetlen gyerek, aki hátramaradt – az ő elszigeteltsége a film egyik legszívszorítóbb szála.</p>
+A film alaphelyzete olyan, mint egy jól irányzott gyomros: Maybrook csendes kisvárosában egy éjszaka, pontosan 2:17-kor tizenhét harmadikos kisgyerek egyszerűen kisétál a házából, és köddé válik. Nincs nyom, nincs magyarázat, csak a fojtogató űr. Ahogy a közösség próbál visszatalálni a „normális” kerékvágásba, a trauma úgy kúszik be minden egyes mozdulatukba, mint a talajmenti köd.
 
-<h3 style="text-align: justify;">Látvány és atmoszféra: A szorongás szimfóniája</h3>
+### Több, mint egy egyszerű krimi
+
+Ami a *Weapons*-t kiemeli a tucat-thrillerek közül, az **Zach Cregger** narratív játéka. A rendező a *Magnóliát* idéző, több szálon futó, nem lineáris történetmesélést választotta, így nem egy sima nyomozást kapunk, hanem egy mélylélektani látleletet. A fókusz nem a technikai részletekre, hanem az emberi sorsokra kerül. Megismerjük Justine Gandyt, a stresszes tanárnőt, akit a bűnbakkereső városi népharag darabokra szed, valamint Archert, a gyászoló apát, aki a saját elfojtott érzelmeivel és a toxikus maszkulinitás súlyával küzd.
+
+### Látvány és atmoszféra: A szorongás szimfóniája
+
 ![](/images/MV5BMDY2MDg1OWItMWVhMC00ZTI5LTg0NmItYTY5Yjk2NjBmOTkyXkEyXkFqcGc@._V1_-22224053.jpg)
-<p style="text-align: justify;">A képi világért az a <em><strong>Larkin Seiple</strong></em> felelt, aki a <i>Minden, mindenhol, mindenkor</i> vizualitását is megálmodta. Itt azonban a vibrálás helyett a fakó színekkel és a tágas, mégis klausztrofóbiás terekkel játszik. A kamera gyakran idegesen, szaggatottan követi a szereplőket, ami a nézőt is belekényszeríti a történet terrorjába. Az összhatás leginkább Denis Villeneuve <i>Fogságban</i> című művének bőr alá kúszó feszültségét idézi, amit a precíz hangdesign csak még feszültebbé tesz.</p>
 
-<h3 style="text-align: justify;">Humor a borzalmak közepette</h3>
-<p style="text-align: justify;">Cregger mesterien zsonglőrködik a tónusokkal, és olyan organikus egységet teremtett, ami papíron talán zűrzavarnak tűnhetne, de a vásznon kiválóan működik. A film nem fél a bizarrtól, sőt, néha még a fekete humort is beveti, különösen Justine szemszögéből, ami egyfajta ideges nevetést vált ki a nézőből a legváratlanabb pillanatokban. A színészi játék pedig végig stabil: <em><strong>Josh Brolin</strong></em> és <em><strong>Julia Garner</strong></em> mellett a fiatal <em><strong>Cary Christopher</strong></em>, valamint az alkoholizmusból szabadulni próbáló rendőrt alakító <em><strong>Alden Ehrenreich</strong></em> is remekel.</p>
+A képi világért az a **Larkin Seiple** felelt, aki a *Minden, mindenhol, mindenkor* vizualitását is megálmodta. Itt azonban a vibrálás helyett a fakó színekkel és a tágas, mégis klausztrofóbiás terekkel játszik. Az összhatás leginkább Denis Villeneuve *Fogságban* című művének bőr alá kúszó feszültségét idézi.
 
-<h3 style="text-align: justify;">Végszó</h3>
-<p style="text-align: justify;">Bár a „Legjobb film” kategóriába végül nem válogatták be, a <i>Weapons</i>-nek ott lett volna a helye. Ez egy rendkívül invenciózus, néhol polgárpukkasztóan bizarr, de alapvetően mélyen megrázó horror-thriller, ami sokkal többet nyújt egy egyszerű eltűnéses sztorinál.</p>
+### Humor a borzalmak közepette
 
-<p style="text-align: justify;"><b>Összegzés: 8/10</b> – Ha szereted azokat az alkotásokat, amik nem rágják a szájadba a megoldást, és szívesebben merülsz el az emberi lélek sötét bugyraiban, akkor ezt semmiképp ne hagyd ki!</p>
+Cregger mesterien zsonglőrködik a tónusokkal. A film nem fél a bizarrtól, sőt, néha még a fekete humort is beveti, különösen Justine szemszögéből, ami egyfajta ideges nevetést vált ki a nézőből a legváratlanabb pillanatokban. A színészi játék pedig végig stabil: **Josh Brolin** és **Julia Garner** mellett a fiatal **Cary Christopher**, valamint az alkoholizmusból szabadulni próbáló rendőrt alakító **Alden Ehrenreich** is remekel.
 
-<hr>
+### Végszó
 
-<h3 style="text-align: center;">Weapons (2025) – Hivatalos előzetes</h3>
+Bár a „Legjobb film” kategóriába végül nem válogatták be, a *Weapons*-nek ott lett volna a helye. Ez egy rendkívül invenciózus, néhol polgárpukkasztóan bizarr, de alapvetően mélyen megrázó horror-thriller, ami sokkal többet nyújt egy egyszerű eltűnéses sztorinál.
+
+**Összegzés: 8/10** – Ha szereted azokat az alkotásokat, amik nem rágják a szájadba a megoldást, és szívesebben merülsz el az emberi lélek sötét bugyraiban, akkor ezt semmiképp ne hagyd ki!
+
+---
+
+### Weapons (2025) – Hivatalos előzetes
+
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin-bottom: 20px;">
-  <iframe src="https://www.youtube.com/embed/OpThntO9ixc" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="Weapons trailer"></iframe>
-</div>
-
-</div>
+  <iframe src="https://
