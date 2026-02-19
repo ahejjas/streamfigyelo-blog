@@ -1,5 +1,5 @@
 ---
-title: "Paranormal Activity: Közeli hozzátartozó – Borzongató visszatérés az Amishok közé"
+title: "Parajelenségek: Kapcsolódás – Borzongató visszatérés az Amishok közé"
 date: 2026-02-19
 categories: ["Kritika"]
 tags: ["Paranormal Activity", "horror", "filmkritika", "found footage", "Next of Kin", "Amish"]
@@ -11,7 +11,7 @@ cover:
 
 <div style="text-align: justify;">
 
-A **Paranormal Activity** franchise hosszú ideje a horror műfaj egyik alappillére, amely a nyugtalanító "talált kamerás" (found-footage) stílusával és hátborzongató természetfeletti izgalmaival hódította meg a közönséget. A legújabb rész, a *Paranormal Activity: Next of Kin* (Közeli hozzátartozó) érkezését hatalmas várakozás övezte. Vajon sikerült megújulnia a sorozatnak, vagy csak a régi kliséket puffogtatják? Merüljünk el ebben az új, sötét fejezetben!
+A **Paranormal Activity** franchise hosszú ideje a horror műfaj egyik alappillére, amely a nyugtalanító "talált kamerás" (found-footage) stílusával és hátborzongató természetfeletti izgalmaival hódította meg a közönséget. A legújabb rész, a *Paranormal Activity: Next of Kin* (Parajelenségek: Kapcsolódás) érkezését hatalmas várakozás övezte. Vajon sikerült megújulnia a sorozatnak, vagy csak a régi kliséket puffogtatják? Merüljünk el ebben az új, sötét fejezetben!
 
 ### Utazás az Amishok elszigetelt világába
 
@@ -26,7 +26,7 @@ A film egyik legnagyobb erőssége a részletgazdagság. Az Amish kultúra és �
 A *Next of Kin* hű marad a franchise hagyományaihoz a feszültség fokozatos adagolásában. Nem kapkodnak el semmit; a nézőnek van ideje elmerülni a karakterek sorsában és a környezetben. Margot karaktere könnyen kedvelhető és hiteles, az ő személyes tragédiája és válaszkeresése hajtja előre a cselekményt.
 
 ***
-> ⚠️ **SPOILER FIGYELEM:**
+> ⚠️ **SPOILER RIADÓ!**
 ***
 
 A cselekmény során kiderül, hogy az Amish közösség nem csupán vallási okokból él elszigetelten. Egy ősi, sötét titkot őrizgetnek, amely egy démoni entitáshoz kapcsolódik. Margot kutatása során rájön, hogy családja és a közösség sorsa baljós módon fonódik össze, és az anyja eltűnése csak a jéghegy csúcsa volt egy sokkal nagyobb, vérfagyasztó rituáléban.
@@ -45,7 +45,7 @@ Régi rajongóként kíváncsian vártam, hogyan illeszkedik majd a *Next of Kin
 
 A **Paranormal Activity: Next of Kin** egy méltó folytatás, amely friss vért hoz az ikonikus franchise-ba. Erős alakításokkal, atmoszférikus rendezéssel és a műfaj elemeinek biztos kezű használatával a film egyszerre tiszteli a múltat és mutat utat a jövőbeli részeknek.
 
-**Értékelés: 7.5/10**
+**Értékelés: 7/10**
 
 <hr>
 
