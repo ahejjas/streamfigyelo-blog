@@ -8,7 +8,7 @@ showShareButtons: true
 description: "Vajon sikerült feltámasztani a Paranormal Activity szériát? Kritikánkból kiderül, hogy az amish közösségbe helyezett Next of Kin hozza-e a kötelező borzongást."
 summary: "A Paranormal Activity: Next of Kin szakít a kertvárosi démonokkal és egy elszigetelt amish közösségbe kalauzol minket. Megnéztük, működik-e az új irány."
 cover:
-    image: "[https://image.tmdb.org/t/p/w1280/IDE_KERÜL_MAJD_A_KÓD.jpg](https://image.tmdb.org/t/p/original/25xqCpuywv1TL9tlfwmGpogo4Tv.jpg)"
+    image: "[https://image.tmdb.org/t/p/original/25xqCpuywv1TL9tlfwmGpogo4Tv.jpg]"
     alt: "Paranormal Activity: Next of Kin filmkritika"
     relative: false
 ---
@@ -37,7 +37,7 @@ Ami azonnal szembetűnik, az a technikai minőség javulása. Elfelejthetjük a 
 
 A film második fele bedurvul. A lassú építkezést felváltja a zsigeri terror, amikor Margot és társai rábukkannak a templom alatti titkos alagutakra. A Next of Kin itt már-már folk-horrorba hajlik: rituálék, ősi démonok és egy olyan finálé vár ránk, ami vizuálisan a széria eddigi legambiciózusabb darabja.
 
-<img src="[https://image.tmdb.org/t/p/w1280/IDE_KERÜL_MAJD_A_KÓD.jpg](https://www.ecranlarge.com/content/uploads/2022/02/paranormal-activity-next-of-kin-photo-emily-bader-1415980.jpg)" style="width: 100%; height: auto; margin: 20px 0;">
+<img src="[https://www.ecranlarge.com/content/uploads/2022/02/paranormal-activity-next-of-kin-photo-emily-bader-1415980.jpg]" style="width: 100%; height: auto; margin: 20px 0;">
 
 <h3 style="text-align: justify;">Összegzés</h3>
 
@@ -48,8 +48,6 @@ A <strong>Paranormal Activity: Next of Kin</strong> nem váltja meg a világot, 
 <hr>
 
 <h3 style="text-align: center;">Előzetes</h3>
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin-bottom: 20px;">
-  <iframe src="https://www.youtube.com/embed/6m6VnN_pCNo" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen></iframe>
-</div>
+{{< youtube PENg4SbUAN0 >}}
 
 </div>
