@@ -29,4 +29,28 @@ A *Next of Kin* hű marad a franchise hagyományaihoz a feszültség fokozatos a
 > ⚠️ **SPOILER FIGYELEM:**
 ***
 
-A cselekmény során kiderül, hogy az Amish közösség nem csupán vallási okokból él elszigetelten. Egy ősi, sötét titkot őrizgetnek, amely egy démoni entitáshoz kapcsolódik. Margot kutatása során rájön, hogy családja és a közösség sorsa
+A cselekmény során kiderül, hogy az Amish közösség nem csupán vallási okokból él elszigetelten. Egy ősi, sötét titkot őrizgetnek, amely egy démoni entitáshoz kapcsolódik. Margot kutatása során rájön, hogy családja és a közösség sorsa baljós módon fonódik össze, és az anyja eltűnése csak a jéghegy csúcsa volt egy sokkal nagyobb, vérfagyasztó rituáléban.
+
+### Természetfeletti borzongás és talált kamerás realizmus
+
+Természetesen egy *Paranormal Activity* film sem lenne teljes a székbe szögező, természetfeletti pillanatok nélkül. A kézikamerás megoldások és a "found-footage" stílus itt is remekül működik, közvetlenebbé és realisztikusabbá téve a borzalmakat. A megmagyarázhatatlan zajoktól kezdve a sötétben feltűnő alakokig a film folyamatosan bizonytalanságban tartja a nézőt.
+
+Az egyik legemlékezetesebb rész egy szeánsz jelenet, ahol a szereplők megpróbálnak kapcsolatba lépni a közösséget kísértő szellemekkel. A feszültség itt hág a tetőfokára, és egy olyan emlékezetes csúcspontba torkollik, amely még sokáig kísérteni fogja a nézőket a stáblista után is.
+
+### Kapcsolódás a franchise örökségéhez
+
+Régi rajongóként kíváncsian vártam, hogyan illeszkedik majd a *Next of Kin* a nagyobb képbe. A film nagyszerű munkát végez: tiszteleg a sorozat mitológiája előtt, miközben új elemekkel és karakterekkel bővíti azt. A finom utalások és kikacsintások a korábbi részekre örömet okoznak a veterán nézőknek, de a történet önmagában is érthető és élvezhető az újonnan érkezők számára.
+
+### Összegzés
+
+A **Paranormal Activity: Next of Kin** egy méltó folytatás, amely friss vért hoz az ikonikus franchise-ba. Erős alakításokkal, atmoszférikus rendezéssel és a műfaj elemeinek biztos kezű használatával a film egyszerre tiszteli a múltat és mutat utat a jövőbeli részeknek.
+
+**Értékelés: 7.5/10**
+
+<hr>
+
+</div>
+
+### Előzetes
+
+{{< youtube PENg4SbUAN0 >}}
